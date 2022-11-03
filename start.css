@@ -1,0 +1,29 @@
+body{
+    /* background-color: rgb(185, 222, 253); */
+    background-image:url(ksr.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* text-shadow: 2px 2px 2px white; */
+    text-decoration-color: bisque;
+    text-align: center;
+}
+
+
+   
+.regclass{
+    /* text-align: center; */
+    line-height: 1.5em;
+    width: 500px;
+    margin:auto;
+    padding: 10px 20px 30px;
+    background-color: rgba(0, 0, 0, .7);
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+background-color:  rgb(135, 136, 136) ;
+
+}
+.regclass{
+    color: rgb(255, 255, 255)
+    
+}
