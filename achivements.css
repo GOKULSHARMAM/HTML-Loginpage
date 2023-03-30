@@ -1,0 +1,28 @@
+body{
+    /* background-color: rgb(185, 222, 253); */
+    background-image:url(ksr.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* text-shadow: 2px 2px 2px white; */
+    text-decoration-color: bisque;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-indent: 5em;
+    text-align: left;
+}
+.h{
+    text-align: center;
+    color: bisque;
+    
+}
+.abt{
+    /* text-align: center; */
+    line-height: 2.0em;
+    width: 1100px;
+    border-radius: 80px 50px;
+    border-style: groove;
+    margin:auto;
+    padding: 10px 20px 30px;
+    background-color: rgba(0, 0, 0, .7);
+    font-family: 'Times New Roman', Times, serif;
+}
