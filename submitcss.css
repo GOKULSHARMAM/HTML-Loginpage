@@ -1,18 +1,14 @@
 body{
     /* background-color: rgb(185, 222, 253); */
-    background-image:url(ksr11.jpg);
+    
     background-repeat: no-repeat;
     background-size: cover;
     /* text-shadow: 2px 2px 2px white; */
-    text-decoration-color: bisque;
+    text-decoration-color: rgb(5, 5, 5);
     text-align: center;
+    color: white;
 }
-.regclass{
-    /* text-align: center; */
-    line-height: 1.5em;
-    width: 500px;
-    margin:auto;
-    padding: 10px 20px 30px;
-    background-color: rgba(104, 255, 34, 0.171);
-    font-family: 'Times New Roman', Times, serif;
-}
+
+    #ind{
+        background-color: rgb(0, 0, 0);
+    }
